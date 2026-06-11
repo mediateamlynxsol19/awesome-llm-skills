@@ -25,6 +25,12 @@
   </a>
 </p>
 
+# NeuroNest AI Engineering Assistant
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI engineering assistant created to help developers plan, build, test, and optimize software projects more efficiently. It supports coding, debugging, security analysis, DevOps workflows, automation, and research tasks, giving technical teams a smarter way to manage AI-assisted software development.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
 
 ## Contents
 
